@@ -114,7 +114,7 @@ export default function Home() {
           </div>
         </div>
         <a
-          href="https://github.com/amRohitKumar/Code-Collab"
+          href="https://github.com/Dev-the-coder/Collabify"
           target="_blank"
           className="flex flex-nowrap justify-center my-4 relative z-50"
         >

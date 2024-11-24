@@ -1,4 +1,7 @@
 {
     "editor.tabSize": 2,
-    "typescript.tsdk": "node_modules\\typescript\\lib"
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "workbench.editorAssociations": {   
+        "*.md": "vscode.markdown.preview.editor",
+    }
 }

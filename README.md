@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href="https://code-collab-pink.vercel.app"><img src="https://raw.githubusercontent.com/amRohitKumar/Code-Collab/master/public/readme-assets/title.png" alt="Code-Collab" width="400"></a>
+  <a href="https://code-collab-pink.vercel.app"><img src="./public/title.png" alt="Code-Collab" width="400"></a>
   <br>
-  Code-Collab
+  Collabify
   <br>
 </h1>
 
@@ -31,7 +31,7 @@
   <a href="#related">Connect</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amRohitKumar/Code-Collab/master/public/readme-assets/working.gif)
+
 ## Key Features
 
 * Real-Time Collaboration - Make changes, See changes
@@ -53,10 +53,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone frontend repository
-$ git clone https://github.com/amRohitKumar/Code-Collab
+$ git clone https://github.com/Dev-the-coder/Collabify.git
 
 # Go into the repository
-$ cd Code-Collab
+$ cd Collabify
 
 # Install dependencies
 $ npm install
@@ -65,10 +65,10 @@ $ npm install
 $ npm run dev
 
 # Now clone backend repository
-$ git clone https://github.com/amRohitKumar/code-collab-server
+$ git clone https://github.com/Dev-the-coder/Collabify-server.git
 
 # Go into the repository
-$ cd code-collab-server
+$ cd Collabify-server
 
 # Install dependencies
 $ npm install
@@ -105,13 +105,7 @@ Add following environmental variables
   - NEXTAUTH_SECRET = "dlfsxxxx"
   - HACKEREARTH_CLIENT_ID = "dfsdxxxx"
   - HACKEREARTH_CLIENT_KEY = "hjhjhxxxxx"
-
 ``` 
-
-## ScreenShots
-
-![Dashboard](https://raw.githubusercontent.com/amRohitKumar/Code-Collab/master/public/readme-assets/dashboard.png)
-![Code Ide](https://raw.githubusercontent.com/amRohitKumar/Code-Collab/master/public/code_ide.png)
 
 ## Tech Stack
 
@@ -124,5 +118,5 @@ This software uses the following softwares-
 
 ## Connect
 
-- [Rohit](https://www.linkedin.com/in/rohit-kumar-8ba1241bb/)
+- [Devesh](https://www.linkedin.com/in/devesh-gupta-464260218/)
 
