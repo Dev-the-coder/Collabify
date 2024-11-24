@@ -26,9 +26,9 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Setup</a> •
-  <a href="#credits">Tech Stack</a> •
-  <a href="#related">Connect</a>
+  <a href="#setup">Setup</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#connect">Connect</a>
 </p>
 
 
@@ -107,7 +107,7 @@ Add following environmental variables
   - HACKEREARTH_CLIENT_KEY = "hjhjhxxxxx"
 ``` 
 
-## Tech Stack
+## Tech-Stack
 
 This software uses the following softwares-
 
